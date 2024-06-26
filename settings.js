@@ -5,7 +5,7 @@
 //Telegram: t.me/kicho
 //GitHub: @kicho
 //WhatsApp: +19294064563
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@techgod143
+//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@kicho
 const fs = require('fs')
 const chalk = require('chalk')
 

@@ -22,7 +22,7 @@ global.botname = 'Kicho God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Tech-God\n\nContact: +917466008456'
+global.author = 'kicho-God\n\nContact: +19294064563'
 
 //console view/theme
 global.themeemoji = '🪀'

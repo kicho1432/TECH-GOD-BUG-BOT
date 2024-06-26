@@ -16,7 +16,7 @@ global.ytname = "YT: kicho"
 global.socialm = "GitHub: kicho"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
+global.ownernumber = '19294064563'  //creator number
 global.ownername = '🐛kicho Dios' //owner name
 global.botname = 'Kicho God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
